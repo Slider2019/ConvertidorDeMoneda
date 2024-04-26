@@ -1,6 +1,6 @@
 # Convertidor de Moneda
 
-![Badge en Desarollo](https://img.shields.io/badge/STATUS-Finalizado-green)
+![Badge en Desarollo](https://img.shields.io/badge/Estado-Finalizado-green)
 ![GitHub Fecha de salida](https://img.shields.io/badge/Fecha_de_salida-Abril-blue)
 ![GitHub Fecha de salida](https://img.shields.io/badge/Versión-1.0-orange)
 
