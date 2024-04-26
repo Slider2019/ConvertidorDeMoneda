@@ -25,8 +25,7 @@ Manejo de errores y mensajes informativos.
 
 Java
 API Exchangerate-API
-IDE (IntelliJ IDEA, Eclipse, etc.)
-Instrucciones de uso:
+IDE IntelliJ IDEA Ultimate
 
 ## Instrucciones de uso
 
