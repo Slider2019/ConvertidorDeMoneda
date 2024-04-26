@@ -6,11 +6,11 @@
 
 Desafio para el bootcamp de Oracle + Alura Latam al terminar el curso de Java POO y consumo de API's
 
-##Descripción:
+## Descripción:
 
-Este proyecto es un sencillo convertidor de monedas que permite a los usuarios convertir entre diferentes divisas. La aplicación utiliza una API externa para obtener los tipos de cambio actualizados y realiza las conversiones de manera precisa.
+Este proyecto es un desafio del bootcamp de ORACLE + Alura Latam al terminar el curso de `<Java OOP y consumo de Api's>` que consta de un sencillo convertidor de monedas el cual permite a los usuarios convertir entre diferentes divisas. La aplicación utiliza una API externa para obtener los tipos de cambio actualizados y realiza las conversiones de manera precisa.
 
-##Características:
+## Características:
 
 Interfaz de usuario simple y fácil de usar.
 Conversión entre múltiples divisas, incluyendo:
