@@ -23,9 +23,9 @@ Manejo de errores y mensajes informativos.
 
 ## Tecnologías utilizadas:
 
-Java
-API Exchangerate-API
-IDE IntelliJ IDEA Ultimate
+Java,
+API Exchangerate-API,
+IDE: IntelliJ IDEA Ultimate
 
 ## Instrucciones de uso
 
