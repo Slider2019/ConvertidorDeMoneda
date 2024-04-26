@@ -34,22 +34,26 @@ Bash
 git clone https://github.com/<su-nombre-de-usuario>/Convertidor-Monedas.git
 ```
 
-content_copy
-Instalar dependencias:
+### Instalar dependencias:
+
+```xml
 Bash
 mvn install
-Usa el código con precaución.
-content_copy
-Ejecutar la aplicación:
+```
+
+### Ejecutar la aplicación:
+
+```xml
 Bash
 java -jar target/Convertidor-Monedas-jar-with-dependencies.jar
-Usa el código con precaución.
-content_copy
+```
+
 Seguir las instrucciones en pantalla para realizar conversiones de moneda.
-Contribuciones:
+
+## Contribuciones:
 
 Se agradecen las contribuciones a este proyecto. Si deseas aportar mejoras o correcciones, puedes crear un pull request en este repositorio.
 
-Licencia:
+## Licencia:
 
-Este proyecto está licenciado bajo la licencia MIT.
+Este proyecto está licenciado bajo la CreativeCommons
