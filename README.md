@@ -1,9 +1,11 @@
 # Convertidor de Moneda
 
+[![CC-0 license](https://img.shields.io/badge/License-CC--0-blue.svg)](https://creativecommons.org/licenses/by-nd/4.0)
+![GitHub JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Badge en Desarollo](https://img.shields.io/badge/Estado-Finalizado-green)
 ![GitHub Fecha de salida](https://img.shields.io/badge/Fecha_de_salida-Abril-blue)
 ![GitHub Version](https://img.shields.io/badge/Versión-1.0-orange)
-![GitHub JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
 
 ## Descripción:
 
