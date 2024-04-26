@@ -4,8 +4,6 @@
 ![GitHub Fecha de salida](https://img.shields.io/badge/Fecha_de_salida-Abril-blue)
 ![GitHub Fecha de salida](https://img.shields.io/badge/Versión-1.0-orange)
 
-Desafio para el bootcamp de Oracle + Alura Latam al terminar el curso de Java POO y consumo de API's
-
 ## Descripción:
 
 Este proyecto es un desafio del bootcamp de ORACLE + Alura Latam al terminar el curso de `<Java OOP y consumo de Api's>` que consta de un sencillo convertidor de monedas el cual permite a los usuarios convertir entre diferentes divisas. La aplicación utiliza una API externa para obtener los tipos de cambio actualizados y realiza las conversiones de manera precisa.
@@ -19,17 +17,21 @@ CLP (Peso chileno)
 COP (Peso colombiano)
 Lectura de tipos de cambio actualizados desde una API externa.
 Manejo de errores y mensajes informativos.
-Tecnologías utilizadas:
+
+## Tecnologías utilizadas:
 
 Java
 API Exchangerate-API
 IDE (IntelliJ IDEA, Eclipse, etc.)
 Instrucciones de uso:
 
-Clonar el repositorio:
+## Clonar el repositorio:
+
+```xml
 Bash
 git clone https://github.com/<su-nombre-de-usuario>/Convertidor-Monedas.git
-Usa el código con precaución.
+```
+
 content_copy
 Instalar dependencias:
 Bash
