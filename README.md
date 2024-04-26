@@ -25,7 +25,9 @@ API Exchangerate-API
 IDE (IntelliJ IDEA, Eclipse, etc.)
 Instrucciones de uso:
 
-## Clonar el repositorio:
+## Instrucciones de uso
+
+### Clonar el repositorio:
 
 ```xml
 Bash
